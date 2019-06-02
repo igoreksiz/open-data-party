@@ -1,5 +1,5 @@
-# open-data-party
-Open data CSV files
+# Open Data
+Open data CSV files collected around the internet
 
 # COUNTRY CODES
 - Pays-Bas : 20
