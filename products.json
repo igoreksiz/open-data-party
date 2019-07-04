@@ -13,8 +13,8 @@
             ],
             "quantity": 16,
             "price": 1456,
-            "markeddown": true,
-            "markeddown_pct": 25,
+            "markeddown": false,
+            "markeddown_pct": 10,
             "active": true,
             "slug": "robe-fourreau"
         },
