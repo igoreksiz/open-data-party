@@ -12,6 +12,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 1456,
+            "markeddown": true,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-fourreau"
         },
@@ -27,6 +30,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/TQ/11/1VJ21C04T-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 1100,
+            "markeddown": true,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-trasat"
         },
@@ -42,6 +48,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 1200,
+            "markeddown": false,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-traseau"
         },
@@ -57,6 +66,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 553,
+            "markeddown": false,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-satraka"
         },
@@ -72,6 +84,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 1150,
+            "markeddown": false,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-parazi"
         },
@@ -87,6 +102,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 552,
+            "markeddown": false,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-ratrayi"
         },
@@ -102,6 +120,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 800,
+            "markeddown": false,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-yatra"
         },
@@ -117,6 +138,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 1456,
+            "markeddown": true,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-pirreaute"
         },
@@ -132,6 +156,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 2100,
+            "markeddown": false,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-rastay"
         },
@@ -147,6 +174,9 @@
                 { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
             ],
             "quantity": 16,
+            "price": 2200,
+            "markeddown": false,
+            "markeddown_pct": 25,
             "active": true,
             "slug": "robe-garreau"
         }
