@@ -123,7 +123,7 @@
             "price": 800,
             "markeddown": false,
             "markeddown_pct": 25,
-            "active": true,
+            "active": false,
             "slug": "robe-yatra"
         },
         {
@@ -177,7 +177,7 @@
             "price": 2200,
             "markeddown": false,
             "markeddown_pct": 25,
-            "active": true,
+            "active": false,
             "slug": "robe-garreau"
         }
     ]
