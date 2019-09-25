@@ -1,0 +1,184 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Robe Fourreau",
+            "reference": "BWA-201974d729d540f6",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/6.jpg", "main_image": true },
+                { "name": "B", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/6.jpg", "main_image": false },
+                { "name": "C", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/6.jpg", "main_imag": false },
+                { "name": "D", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/6.jpg", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 1456,
+            "markeddown": false,
+            "markeddown_pct": 10,
+            "active": true,
+            "slug": "robe-fourreau"
+        },
+        {
+            "id": 2,
+            "name": "Robe Trasat",
+            "reference": "BWA-2019748bd85a6850",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/1.jpg", "main_image": true },
+                { "name": "B", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/1.jpg", "main_image": false },
+                { "name": "C", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/1.jpg", "main_imag": false },
+                { "name": "D", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/1.jpg", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 1100,
+            "markeddown": true,
+            "markeddown_pct": 25,
+            "active": true,
+            "slug": "robe-trasat"
+        },
+        {
+            "id": 3,
+            "name": "Robe Traseau",
+            "reference": "BWA-201974624cfa9fbb",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/2.jpg", "main_image": true },
+                { "name": "B", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/2.jpg", "main_image": false },
+                { "name": "C", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/2.jpg", "main_imag": false },
+                { "name": "D", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/2.jpg", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 1200,
+            "markeddown": false,
+            "markeddown_pct": 25,
+            "active": true,
+            "slug": "robe-traseau"
+        },
+        {
+            "id": 4,
+            "name": "Robe satraka",
+            "reference": "BWA-201974c987b6b160",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/4.jpg", "main_image": true },
+                { "name": "B", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/4.jpg", "main_image": false },
+                { "name": "C", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/4.jpg", "main_imag": false },
+                { "name": "D", "image_url": "https://colorlib.com/preview/theme/divisima/img/product/4.jpg", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 553,
+            "markeddown": false,
+            "markeddown_pct": 25,
+            "active": true,
+            "slug": "robe-satraka"
+        },
+        {
+            "id": 5,
+            "name": "Robe Parazi",
+            "reference": "BWA-2019749e5556132b",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@9.jpg?imwidth=765", "main_image": true },
+                { "name": "B", "image_url": "https://mosaic04.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@7.jpg?imwidth=66", "main_image": false },
+                { "name": "C", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@10.jpg?imwidth=66", "main_imag": false },
+                { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 1150,
+            "markeddown": false,
+            "markeddown_pct": 25,
+            "active": true,
+            "slug": "robe-parazi"
+        },
+        {
+            "id": 6,
+            "name": "Robe Ratrayi",
+            "reference": "BWA-201974a9a15ea7f5",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@9.jpg?imwidth=765", "main_image": true },
+                { "name": "B", "image_url": "https://mosaic04.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@7.jpg?imwidth=66", "main_image": false },
+                { "name": "C", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@10.jpg?imwidth=66", "main_imag": false },
+                { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 552,
+            "markeddown": false,
+            "markeddown_pct": 25,
+            "active": true,
+            "slug": "robe-ratrayi"
+        },
+        {
+            "id": 7,
+            "name": "Robe Yatra",
+            "reference": "BWA-201974ac40da6886",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@9.jpg?imwidth=765", "main_image": true },
+                { "name": "B", "image_url": "https://mosaic04.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@7.jpg?imwidth=66", "main_image": false },
+                { "name": "C", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@10.jpg?imwidth=66", "main_imag": false },
+                { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 800,
+            "markeddown": false,
+            "markeddown_pct": 25,
+            "active": false,
+            "slug": "robe-yatra"
+        },
+        {
+            "id": 8,
+            "name": "Robe Pirreaute",
+            "reference": "BWA-2019744a8b606fc2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@9.jpg?imwidth=765", "main_image": true },
+                { "name": "B", "image_url": "https://mosaic04.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@7.jpg?imwidth=66", "main_image": false },
+                { "name": "C", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@10.jpg?imwidth=66", "main_imag": false },
+                { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 1456,
+            "markeddown": true,
+            "markeddown_pct": 25,
+            "active": true,
+            "slug": "robe-pirreaute"
+        },
+        {
+            "id": 9,
+            "name": "Robe Rastay",
+            "reference": "BWA-2019743e9d0d1873",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@9.jpg?imwidth=765", "main_image": true },
+                { "name": "B", "image_url": "https://mosaic04.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@7.jpg?imwidth=66", "main_image": false },
+                { "name": "C", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@10.jpg?imwidth=66", "main_imag": false },
+                { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 2100,
+            "markeddown": false,
+            "markeddown_pct": 25,
+            "active": true,
+            "slug": "robe-rastay"
+        },
+        {
+            "id": 10,
+            "name": "Robe Garreau",
+            "reference": "BWA-201974cadabafa50",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima atque ea perferendis, provident illo explicabo ratione aspernatur, laudantium similique molestiae, maxime vel. Beatae consequatur alias laborum molestiae dicta numquam deserunt?",
+            "images": [
+                { "name": "A", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@9.jpg?imwidth=765", "main_image": true },
+                { "name": "B", "image_url": "https://mosaic04.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@7.jpg?imwidth=66", "main_image": false },
+                { "name": "C", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@10.jpg?imwidth=66", "main_imag": false },
+                { "name": "D", "image_url": "https://mosaic03.ztat.net/vgs/media/article-image-mhq/1V/J2/1C/04/RQ/11/1VJ21C04R-Q11@6.jpg?imwidth=66", "main_image": false }
+            ],
+            "quantity": 16,
+            "price": 2200,
+            "markeddown": false,
+            "markeddown_pct": 25,
+            "active": false,
+            "slug": "robe-garreau"
+        }
+    ]
+}
